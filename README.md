@@ -1,7 +1,5 @@
 ### Abhilash Chadhar
 
-Founder and AI product builder. Lead, Agentic AI Applications.
-
 I build AI products end to end, from the silicon to the market.
 
 <picture>
